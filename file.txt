@@ -1,0 +1,210 @@
+ID: 6
+Name: Leonardo DiCaprio
+Email: leonardo@example.com
+Address: 123 Hollywood Boulevard
+Flat number: 6
+Square: 110.0
+
+ID: 8
+Name: Meryl Streep
+Email: meryl@example.com
+Address: 123 Hollywood Boulevard
+Flat number: 8
+Square: 88.4
+
+ID: 16
+Name: Matthew McConaughey
+Email: matthew@example.com
+Address: 123 Hollywood Boulevard
+Flat number: 16
+Square: 75.0
+
+ID: 18
+Name: Cate Blanchett
+Email: cate@example.com
+Address: 123 Hollywood Boulevard
+Flat number: 18
+Square: 75.0
+
+ID: 26
+Name: Liam Neeson
+Email: liam@example.com
+Address: 123 Hollywood Boulevard
+Flat number: 26
+Square: 97.3
+
+ID: 28
+Name: Chris Hemsworth
+Email: chrish@example.com
+Address: 123 Hollywood Boulevard
+Flat number: 28
+Square: 92.7
+
+ID: 36
+Name: Meryl Streep
+Email: meryls@example.com
+Address: 456 Hollywood Boulevard
+Flat number: 6
+Square: 105.7
+
+ID: 38
+Name: Tom Hanks
+Email: tomh@example.com
+Address: 456 Hollywood Boulevard
+Flat number: 8
+Square: 103.2
+
+ID: 41
+Name: Ben Affleck
+Email: ben@example.com
+Address: 456 Hollywood Boulevard
+Flat number: 11
+Square: 97.3
+
+ID: 44
+Name: Nicole Kidman
+Email: nicolek@example.com
+Address: 456 Hollywood Boulevard
+Flat number: 14
+Square: 92.7
+
+ID: 47
+Name: Keanu Reeves
+Email: keanur@example.com
+Address: 456 Hollywood Boulevard
+Flat number: 17
+Square: 100.5
+
+ID: 50
+Name: Cate Blanchett
+Email: cateb@example.com
+Address: 456 Hollywood Boulevard
+Flat number: 20
+Square: 110.0
+
+ID: 53
+Name: Liam Neeson
+Email: liamn@example.com
+Address: 456 Hollywood Boulevard
+Flat number: 23
+Square: 88.4
+
+ID: 56
+Name: Kate Winslet
+Email: katew@example.com
+Address: 456 Hollywood Boulevard
+Flat number: 26
+Square: 91.5
+
+ID: 59
+Name: Anthony Hopkins
+Email: anthonyh@example.com
+Address: 456 Hollywood Boulevard
+Flat number: 29
+Square: 115.2
+
+ID: 62
+Name: Jennifer Lawrence
+Email: jenniferll@example.com
+Address: 789 Hollywood Boulevard
+Flat number: 2
+Square: 75.0
+
+ID: 65
+Name: Gwyneth Paltrow
+Email: gwynethp@example.com
+Address: 789 Hollywood Boulevard
+Flat number: 5
+Square: 105.7
+
+ID: 68
+Name: Tom Cruise
+Email: tomc@example.com
+Address: 789 Hollywood Boulevard
+Flat number: 8
+Square: 103.2
+
+ID: 71
+Name: Jessica Alba
+Email: jessicaa@example.com
+Address: 789 Hollywood Boulevard
+Flat number: 11
+Square: 97.3
+
+ID: 74
+Name: Christian Bale
+Email: christianb@example.com
+Address: 789 Hollywood Boulevard
+Flat number: 14
+Square: 92.7
+
+ID: 77
+Name: Natalie Portman
+Email: nataliep@example.com
+Address: 789 Hollywood Boulevard
+Flat number: 17
+Square: 100.5
+
+ID: 80
+Name: Ryan Reynolds
+Email: ryanr@example.com
+Address: 789 Hollywood Boulevard
+Flat number: 20
+Square: 110.0
+
+ID: 83
+Name: Charlize Theron
+Email: charlizet@example.com
+Address: 789 Hollywood Boulevard
+Flat number: 23
+Square: 88.4
+
+ID: 86
+Name: Harrison Ford
+Email: harrisonf@example.com
+Address: 789 Hollywood Boulevard
+Flat number: 26
+Square: 91.5
+
+ID: 89
+Name: Emma Watson
+Email: emmaw@example.com
+Address: 789 Hollywood Boulevard
+Flat number: 29
+Square: 115.2
+
+ID: 92
+Name: Brad Pitt
+Email: bradp@example.com
+Address: 789 Hollywood Boulevard
+Flat number: 32
+Square: 75.0
+
+ID: 95
+Name: Meryl Streep
+Email: meryls@example.com
+Address: 789 Hollywood Boulevard
+Flat number: 35
+Square: 105.7
+
+ID: 100
+Name: Mert Ramazan Demir
+Email: mert@example.com
+Address: 11 Bagdad Caddesi
+Flat number: 1
+Square: 75.0
+
+ID: 101
+Name: Burak Ozcivit
+Email: burak@example.com
+Address: 11 Bagdad Caddesi
+Flat number: 2
+Square: 75.0
+
+ID: 102
+Name: Serkan Bolat
+Email: serkan@example.com
+Address: 11 Bagdad Caddesi
+Flat number: 3
+Square: 75.0
+
