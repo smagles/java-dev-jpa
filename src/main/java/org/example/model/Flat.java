@@ -23,7 +23,6 @@ public class Flat {
     @JoinColumn(name = "building_id")
     private Building building;
 
-
     public Flat() {
     }
 
